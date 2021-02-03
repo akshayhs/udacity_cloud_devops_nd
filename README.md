@@ -56,9 +56,9 @@ In this project, a student must deploy his/her own web site on AWS by building a
 
 ## Project 4: Operationalize a Machine Learning Microservice API and deploy to Kubernetes
 
-In this project, students must containerize an instructor-supplied SciKit learn Machine-learning model that predics housing prices in Boston, using Docker, Kubernetes and AWS Elastic Kubernetes Service/EKS.
+Access project files [here](https://github.com/akshayhs/udacity_cloud_devops_nd/tree/master/4%20-%20Operationalize%20a%20Machine%20Learning%20Microservice%20API).
 
-Access project files [here](https://github.com/akshayhs/udacity_cloud_devops_nd/tree/master/4%20-%20Operationalize%20a%20Machine%20learning%20Microservice%20API).
+In this project, students must containerize an instructor-supplied SciKit learn Machine-learning model that predics housing prices in Boston, using Docker, Kubernetes and AWS Elastic Kubernetes Service/EKS.
 
 ### Tools and cloud services used
 
