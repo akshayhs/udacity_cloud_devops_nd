@@ -58,6 +58,8 @@ In this project, a student must deploy his/her own web site on AWS by building a
 
 In this project, students must containerize an instructor-supplied SciKit learn Machine-learning model that predics housing prices in Boston, using Docker, Kubernetes and AWS Elastic Kubernetes Service/EKS.
 
+Access project files [here](https://github.com/akshayhs/udacity_cloud_devops_nd/tree/master/4%20-%20Operationalize%20a%20Machine%20learning%20Microservice%20API).
+
 ### Tools and cloud services used
 
 - Docker, Dockerhub for docker repository, Kubernetes(Minikube)
