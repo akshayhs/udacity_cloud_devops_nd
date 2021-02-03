@@ -38,6 +38,8 @@ In this project, students are expected to deploy web servers for an instructor-s
 
 **Note: _This project was submitted in the form of screenshots for proof of its functioning and as such files are unavailable_.**
 
+Access project files [here](https://github.com/akshayhs/udacity_cloud_devops_nd/tree/master/3%20-%20Jenkins%20Pipelines%20on%20AWS).
+
 In this project, a student must deploy his/her own web site on AWS by building a multi-stage pipeline, of which one must be a step for linting, using Jenkins for CI/CD.
 
 ### Tools
