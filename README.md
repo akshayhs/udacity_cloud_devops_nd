@@ -6,7 +6,7 @@
 
 In this project, students are expected to deploy an instructor-supplied static website on AWS and setup content distribution using AWS CloudFront.
 
-Access to project files [here](https://github.com/akshayhs/udacity_cloud_devops_nd/tree/master/1%20-%20Deploy%20Static%20Website%20on%20AWS).
+Access project files [here](https://github.com/akshayhs/udacity_cloud_devops_nd/tree/master/1%20-%20Deploy%20Static%20Website%20on%20AWS).
 
 ### Cloud services used
 
@@ -81,6 +81,8 @@ Access project files [here](https://github.com/akshayhs/udacity_cloud_devops_nd/
 - GitHub for version control.
 
 ## Capstone project: Containerize a simple web application and deploy to EKS
+
+Access project files [here](https://github.com/akshayhs/udacity_cloud_devops_nd/tree/master/5%20-%20Capstone%20project).
 
 In this project, students are tasked to propose their own scope of the project by including the following tools:
 
